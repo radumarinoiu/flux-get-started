@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: testapp1
-        image: radumarinoiu/testapp1:1577446260
+        image: radumarinoiu/testapp1:1577446358
         ports:
         - containerPort: 5000
 ---
